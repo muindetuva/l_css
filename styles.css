@@ -1,0 +1,23 @@
+.card {
+  background-color: red;
+  color: white;
+  display: block;
+  width: 100px;
+  height: 100px;
+}
+
+#card {
+  background-color: blue;
+}
+
+.card-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+
+.card-section p {
+  background-color: green;
+}
